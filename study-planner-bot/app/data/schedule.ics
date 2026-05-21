@@ -1,0 +1,618 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 5.2.0//EN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+X-LIC-LOCATION:Europe/Moscow
+END:VTIMEZONE
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 15\nАудитория:
+  Таганрог\, Спортзал № 3
+DTEND;TZID=Europe/Moscow:20260529T152000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260529T134500
+SEQUENCE:0
+SUMMARY:Дисциплины ФКиС / Дисциплины по физи
+ ческой культуре и спорту
+UID:c4d2079d-1017-4f46-918f-5655d0cbbbe5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 28\nАудитория:
+  Г-418\nПреподаватели: Пуха Иван Сергеевич
+DTEND;TZID=Europe/Moscow:20260515T191000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260515T155000
+SEQUENCE:0
+SUMMARY:ИИТ / Практическое занятие 14
+UID:f5cd6fd4-f034-4e1d-bf3b-04360e4d601a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лекционное занятие 43\nПреподавате
+ ли: Беспалов Дмитрий Анатольевич
+DTEND;TZID=Europe/Moscow:20260520T133000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260520T115500
+SEQUENCE:0
+SUMMARY:МППИС / Лекционное занятие 15
+UID:b1903bec-dd8d-43a9-828d-ebc59e0ea6c9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 13\nАудитория:
+  Таганрог\, Спортзал № 2
+DTEND;TZID=Europe/Moscow:20260515T152000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260515T134500
+SEQUENCE:0
+SUMMARY:Дисциплины ФКиС / Дисциплины по физи
+ ческой культуре и спорту
+UID:490fe56b-d243-407a-a68e-13399cf636cb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 51\nАудитория:
+  Г-418\nПреподаватели: Пуха Иван Сергеевич
+DTEND;TZID=Europe/Moscow:20260606T152000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260606T134500
+SEQUENCE:0
+SUMMARY:МППИС / Практическое занятие 34
+UID:9aca5eb6-2a45-468a-b873-9770c1a8cf4e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 72\nАудитория:
+  Военный учебный центр
+DTEND;TZID=Europe/Moscow:20260601T112500
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260601T095000
+SEQUENCE:0
+SUMMARY:Военная подготовка / Военная подгото
+ вка
+UID:0960c450-bd44-4394-a578-c43a37cffc67
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 75\nАудитория:
+  Военный учебный центр
+DTEND;TZID=Europe/Moscow:20260601T172500
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260601T155000
+SEQUENCE:0
+SUMMARY:Военная подготовка / Военная подгото
+ вка
+UID:6a752045-0875-4e61-9552-05e6e6cd48f4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 62\nАудитория:
+  Военный учебный центр
+DTEND;TZID=Europe/Moscow:20260518T112500
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260518T095000
+SEQUENCE:0
+SUMMARY:Военная подготовка / Военная подгото
+ вка
+UID:4c0cf2ef-f010-49a1-80da-45bd74fdfbca
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 47\nАудитория:
+  Г-418\nПреподаватели: Пуха Иван Сергеевич
+DTEND;TZID=Europe/Moscow:20260526T152000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260526T134500
+SEQUENCE:0
+SUMMARY:МППИС / Практическое занятие 31
+UID:92483429-d4fc-465b-944f-c6f23abba620
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лекционное занятие 36\nПреподавате
+ ли: Беспалов Дмитрий Анатольевич
+DTEND;TZID=Europe/Moscow:20260520T152000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260520T134500
+SEQUENCE:0
+SUMMARY:КЗ / Лекционное занятие 15
+UID:6b8719f8-3ab4-469d-a4cb-a7226660eb88
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лекционное занятие 27\nАудитория: Г-
+ 309\nПреподаватели: Родзин Сергей Иванови
+ ч
+DTEND;TZID=Europe/Moscow:20260604T172500
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260604T155000
+SEQUENCE:0
+SUMMARY:ТПР / Автоматизация процесса поддерж
+ ки принятия решений. Системы поддержки п
+ ринятия решений
+UID:f0ad6341-e57e-4661-95a0-7bf826a95aa5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лекционное занятие 38\nПреподавате
+ ли: Беспалов Дмитрий Анатольевич
+DTEND;TZID=Europe/Moscow:20260527T152000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260527T134500
+SEQUENCE:0
+SUMMARY:КЗ / Лекционное занятие 16
+UID:344acdd4-b55b-476a-aa1c-02406bba9209
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лекционное занятие 26\nАудитория: Г-
+ 309\nПреподаватели: Родзин Сергей Иванови
+ ч
+DTEND;TZID=Europe/Moscow:20260519T205000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260519T191500
+SEQUENCE:0
+SUMMARY:ТПР / Процедуры голосования. Теорема 
+ о невозможности Эрроу. Принятие решений 
+ в организациях
+UID:302f9552-0a10-4ebf-b97e-4fb56cb31771
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 18\nАудитория:
+  Д-514\nПреподаватели: Нечаева Татьяна Але
+ ксандровна
+DTEND;TZID=Europe/Moscow:20260526T133000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260526T115500
+SEQUENCE:0
+SUMMARY:ИЯдДК-2 / Conducting effective video calls.
+UID:4587b218-f915-477a-9a2f-dfabdd741a36
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 68\nАудитория:
+  Военный учебный центр
+DTEND;TZID=Europe/Moscow:20260525T133000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260525T115500
+SEQUENCE:0
+SUMMARY:Военная подготовка / Военная подгото
+ вка
+UID:7ab9db35-8d44-40ad-9321-952f272c3c4a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лабораторное занятие 40\nАудитория:
+  Г-412\nПреподаватели: Мельник Ярослав Эду
+ ардович
+DTEND;TZID=Europe/Moscow:20260602T133000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260602T115500
+SEQUENCE:0
+SUMMARY:КЗ / Лабораторное занятие 16
+UID:0f29780a-6bf9-4371-86ce-14260d0b39d9
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лекционное занятие 24\nАудитория: Г-
+ 309\nПреподаватели: Родзин Сергей Иванови
+ ч
+DTEND;TZID=Europe/Moscow:20260521T172500
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260521T155000
+SEQUENCE:0
+SUMMARY:ТПР / Коллективный выбор. Принципы бо
+ льшинства\, диктатора\, Курно\, Парето\, Эд
+ жворта
+UID:ca2c5ab9-c114-4f9e-8d12-55abfeeb1980
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лекционное занятие 49\nПреподавате
+ ли: Беспалов Дмитрий Анатольевич
+DTEND;TZID=Europe/Moscow:20260603T133000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260603T115500
+SEQUENCE:0
+SUMMARY:МППИС / Лекционное занятие 17
+UID:6a1d57eb-8127-4441-910e-9ca5382e992b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 39\nАудитория:
+  Г-418\nПреподаватели: Мельник Ярослав Эду
+ ардович
+DTEND;TZID=Europe/Moscow:20260530T133000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260530T115500
+SEQUENCE:0
+SUMMARY:КЗ / Практическое занятие 8
+UID:75e0ef85-57eb-4749-9d41-431fee865aab
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 31\nАудитория:
+  Г-405\nПреподаватели: Мельник Эдуард Всев
+ олодович
+DTEND;TZID=Europe/Moscow:20260521T191000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260521T173500
+SEQUENCE:0
+SUMMARY:ТПР / Метод идеальной точки. Методы ELE
+ CTRE
+UID:2048ba5b-1f7e-4783-bb62-3fc706ec57b1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Аттестация 19\nАудитория: Д-514\nПрепо
+ даватели: Нечаева Татьяна Александровна
+DTEND;TZID=Europe/Moscow:20260526T133000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260526T115500
+SEQUENCE:0
+SUMMARY:ИЯдДК-2 / Дифференцированный зачет
+UID:ff39abe4-8379-412f-9de0-136785f7e0f2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лекционное занятие 33\nПреподавате
+ ли: Костюк Андрей Иванович
+DTEND;TZID=Europe/Moscow:20260604T152000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260604T134500
+SEQUENCE:0
+SUMMARY:ИИТ / Лекция 17
+UID:6af87eb1-3a85-4093-9cfa-30c32509b7fd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 34\nАудитория:
+  Г-418\nПреподаватели: Мельник Ярослав Эду
+ ардович
+DTEND;TZID=Europe/Moscow:20260515T205000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260515T191500
+SEQUENCE:0
+SUMMARY:КЗ / Практическое занятие 7
+UID:81cc10d0-e4c0-416b-ba2b-5b54ad50a8ba
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 17\nАудитория:
+  Д-514\nПреподаватели: Нечаева Татьяна Але
+ ксандровна
+DTEND;TZID=Europe/Moscow:20260519T133000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260519T115500
+SEQUENCE:0
+SUMMARY:ИЯдДК-2 / Phone and video calls.
+UID:1c540f4d-9ef5-4cb6-b639-47f17c6577d8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 66\nАудитория:
+  Военный учебный центр
+DTEND;TZID=Europe/Moscow:20260525T093500
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260525T080000
+SEQUENCE:0
+SUMMARY:Военная подготовка / Военная подгото
+ вка
+UID:9308abd6-157a-41c5-85f3-e88c86906fd3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лекционное занятие 29\nПреподавате
+ ли: Костюк Андрей Иванович
+DTEND;TZID=Europe/Moscow:20260521T152000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260521T134500
+SEQUENCE:0
+SUMMARY:ИИТ / Лекция 15
+UID:2883a88e-3b44-433c-b05d-68a53a5497e7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 14\nАудитория:
+  Таганрог\, Спортзал № 2
+DTEND;TZID=Europe/Moscow:20260522T152000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260522T134500
+SEQUENCE:0
+SUMMARY:Дисциплины ФКиС / Дисциплины по физи
+ ческой культуре и спорту
+UID:242d2b84-393c-4d70-b3a1-f5aec6a49ef8
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 48\nАудитория:
+  Г-418\nПреподаватели: Пуха Иван Сергеевич
+DTEND;TZID=Europe/Moscow:20260530T112500
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260530T095000
+SEQUENCE:0
+SUMMARY:МППИС / Практическое занятие 32
+UID:47336960-fe6d-41ad-ab78-f6ff62b11356
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лекционное занятие 46\nПреподавате
+ ли: Беспалов Дмитрий Анатольевич
+DTEND;TZID=Europe/Moscow:20260527T133000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260527T115500
+SEQUENCE:0
+SUMMARY:МППИС / Лекционное занятие 16
+UID:aab4f159-7073-46bf-9dd9-2e858ebc2e1f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 70\nАудитория:
+  Военный учебный центр
+DTEND;TZID=Europe/Moscow:20260525T172500
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260525T155000
+SEQUENCE:0
+SUMMARY:Военная подготовка / Военная подгото
+ вка
+UID:5bf6ad3b-4df8-4734-8f7c-8a17dce93e5b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 42\nАудитория:
+  Г-418\nПреподаватели: Пуха Иван Сергеевич
+DTEND;TZID=Europe/Moscow:20260516T172500
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260516T155000
+SEQUENCE:0
+SUMMARY:МППИС / Практическое занятие 28
+UID:f242dadd-69b8-4973-b5a6-1666be0f0f6f
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 33\nАудитория:
+  Г-405\nПреподаватели: Мельник Эдуард Всев
+ олодович
+DTEND;TZID=Europe/Moscow:20260604T191000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260604T173500
+SEQUENCE:0
+SUMMARY:ТПР / Процедуры определения победите
+ ля при голосовании
+UID:ee56337b-2577-4415-a434-605e79ce9572
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 32\nАудитория:
+  Г-401\nПреподаватели: Мельник Эдуард Всев
+ олодович
+DTEND;TZID=Europe/Moscow:20260528T191000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260528T173500
+SEQUENCE:0
+SUMMARY:ТПР / Модель целевого программирован
+ ия. Метод уступок
+UID:747277e1-ccb5-40c4-87d3-a1b2c4aa681c
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 13\nАудитория:
+  Таганрог\, Тренажерный зал № 5\nПреподав
+ атели: Гревцев Виктор Николаевич
+DTEND;TZID=Europe/Moscow:20260515T152000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260515T134500
+SEQUENCE:0
+SUMMARY:Дисциплины по физической культуре и 
+ спорту Пятница 13.45 / Практическое заняти
+ е
+UID:29d69635-6edb-44cc-9174-07ea4d1c711a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 50\nАудитория:
+  Г-418\nПреподаватели: Пуха Иван Сергеевич
+DTEND;TZID=Europe/Moscow:20260602T152000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260602T134500
+SEQUENCE:0
+SUMMARY:МППИС / Практическое занятие 33
+UID:f41d4833-2ef6-4757-b3f8-21347e8e3363
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 67\nАудитория:
+  Военный учебный центр
+DTEND;TZID=Europe/Moscow:20260525T112500
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260525T095000
+SEQUENCE:0
+SUMMARY:Военная подготовка / Военная подгото
+ вка
+UID:65ae5abe-e555-49c7-8d1f-935bb36c34b6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 30\nАудитория:
+  Г-418\nПреподаватели: Пуха Иван Сергеевич
+DTEND;TZID=Europe/Moscow:20260522T191000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260522T155000
+SEQUENCE:0
+SUMMARY:ИИТ / Практическое занятие 15
+UID:28dd4dd9-d49a-40a3-8ddc-282ec4285bc1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 44\nАудитория:
+  Г-418\nПреподаватели: Пуха Иван Сергеевич
+DTEND;TZID=Europe/Moscow:20260519T152000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260519T134500
+SEQUENCE:0
+SUMMARY:МППИС / Практическое занятие 29
+UID:e8599c7b-1cf1-492f-931b-30097535c02b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 64\nАудитория:
+  Военный учебный центр
+DTEND;TZID=Europe/Moscow:20260518T152000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260518T134500
+SEQUENCE:0
+SUMMARY:Военная подготовка / Военная подгото
+ вка
+UID:4c80a26a-9bbc-458c-80ad-96101b7b9749
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 16\nАудитория:
+  Таганрог\, Тренажерный зал № 5
+DTEND;TZID=Europe/Moscow:20260605T152000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260605T134500
+SEQUENCE:0
+SUMMARY:Дисциплины ФКиС / Дисциплины по физи
+ ческой культуре и спорту
+UID:d978a8d4-767e-4625-a645-b19465315322
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 74\nАудитория:
+  Военный учебный центр
+DTEND;TZID=Europe/Moscow:20260601T152000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260601T134500
+SEQUENCE:0
+SUMMARY:Военная подготовка / Военная подгото
+ вка
+UID:a691087b-87e0-4c48-a24c-3ecd2a9873e7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 65\nАудитория:
+  Военный учебный центр
+DTEND;TZID=Europe/Moscow:20260518T172500
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260518T155000
+SEQUENCE:0
+SUMMARY:Военная подготовка / Военная подгото
+ вка
+UID:e25f2548-3f14-4c07-abbf-98a9b258f665
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 32\nАудитория:
+  Г-418\nПреподаватели: Пуха Иван Сергеевич
+DTEND;TZID=Europe/Moscow:20260529T205000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260529T173500
+SEQUENCE:0
+SUMMARY:ИИТ / Практическое занятие 16
+UID:0eba9996-2531-470c-9c20-bd5be2209d5a
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 45\nАудитория:
+  Г-418\nПреподаватели: Пуха Иван Сергеевич
+DTEND;TZID=Europe/Moscow:20260523T112500
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260523T095000
+SEQUENCE:0
+SUMMARY:МППИС / Практическое занятие 30
+UID:3d91bb02-a469-44ab-b139-306ab0e9bc54
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 14\nАудитория:
+  Таганрог\, Тренажерный зал № 5\nПреподав
+ атели: Гревцев Виктор Николаевич
+DTEND;TZID=Europe/Moscow:20260522T152000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260522T134500
+SEQUENCE:0
+SUMMARY:Дисциплины по физической культуре и 
+ спорту Пятница 13.45 / Практическое заняти
+ е
+UID:28fa88ff-9a1f-4059-bd6d-c2ceb2a8b303
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 34\nАудитория:
+  Г-418\nПреподаватели: Пуха Иван Сергеевич
+DTEND;TZID=Europe/Moscow:20260605T191000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260605T155000
+SEQUENCE:0
+SUMMARY:ИИТ / Практическое занятие 17
+UID:d090f82b-64d5-45ff-b480-7b4560f9c485
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лабораторное занятие 37\nАудитория:
+  Г-412\nПреподаватели: Мельник Ярослав Эду
+ ардович
+DTEND;TZID=Europe/Moscow:20260529T172500
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260529T155000
+SEQUENCE:0
+SUMMARY:КЗ / Лабораторное занятие 15
+UID:e6eebfc3-3608-4e4e-a999-0dbd0ab16335
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лекционное занятие 31\nПреподавате
+ ли: Костюк Андрей Иванович
+DTEND;TZID=Europe/Moscow:20260528T152000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260528T134500
+SEQUENCE:0
+SUMMARY:ИИТ / Лекция 16
+UID:6a3bb419-405d-4c09-abff-a93265164c56
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 73\nАудитория:
+  Военный учебный центр
+DTEND;TZID=Europe/Moscow:20260601T133000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260601T115500
+SEQUENCE:0
+SUMMARY:Военная подготовка / Военная подгото
+ вка
+UID:89023457-e8cc-4f99-a090-e7f2b432f029
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 69\nАудитория:
+  Военный учебный центр
+DTEND;TZID=Europe/Moscow:20260525T152000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260525T134500
+SEQUENCE:0
+SUMMARY:Военная подготовка / Военная подгото
+ вка
+UID:442ad6ae-25c4-4ddc-b877-cc6ea0df5b52
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лекционное занятие 41\nПреподавате
+ ли: Беспалов Дмитрий Анатольевич
+DTEND;TZID=Europe/Moscow:20260603T152000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260603T134500
+SEQUENCE:0
+SUMMARY:КЗ / Лекционное занятие 17
+UID:db448acd-3e27-483c-9e28-49e301cc0b49
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 61\nАудитория:
+  Военный учебный центр
+DTEND;TZID=Europe/Moscow:20260518T093500
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260518T080000
+SEQUENCE:0
+SUMMARY:Военная подготовка / Военная подгото
+ вка
+UID:aa774cd0-d8c5-47fb-9492-b0518fff037e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 71\nАудитория:
+  Военный учебный центр
+DTEND;TZID=Europe/Moscow:20260601T093500
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260601T080000
+SEQUENCE:0
+SUMMARY:Военная подготовка / Военная подгото
+ вка
+UID:28fdc08e-663b-4dd3-b22f-775e117940ca
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лабораторное занятие 35\nАудитория:
+  Г-412\nПреподаватели: Мельник Ярослав Эду
+ ардович
+DTEND;TZID=Europe/Moscow:20260523T133000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260523T115500
+SEQUENCE:0
+SUMMARY:КЗ / Лабораторное занятие 14
+UID:9f8021c0-49e6-48a1-af52-7840d20c1fe7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 15\nАудитория:
+  Таганрог\, Тренажерный зал № 5\nПреподав
+ атели: Гревцев Виктор Николаевич
+DTEND;TZID=Europe/Moscow:20260529T152000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260529T134500
+SEQUENCE:0
+SUMMARY:Дисциплины по физической культуре и 
+ спорту Пятница 13.45 / Практическое заняти
+ е
+UID:fdec1442-f3d6-4ae0-ae87-35ae8b4ca922
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Практическое занятие 63\nАудитория:
+  Военный учебный центр
+DTEND;TZID=Europe/Moscow:20260518T133000
+DTSTAMP:20260521T213906Z
+DTSTART;TZID=Europe/Moscow:20260518T115500
+SEQUENCE:0
+SUMMARY:Военная подготовка / Военная подгото
+ вка
+UID:e5489f08-6aab-4293-b735-eb067051e92e
+END:VEVENT
+END:VCALENDAR
